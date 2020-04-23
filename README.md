@@ -80,6 +80,7 @@ You can find the sample code below on the repo.
 For now we will use the ready-made application. In the following days I will publish the application once after the certificates are processed.
 
 *APP Screenshot:*
+
 ![Application](./images/app.png)
 
 
